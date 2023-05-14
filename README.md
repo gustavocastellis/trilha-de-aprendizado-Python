@@ -1,2 +1,2 @@
 # trilha-de-aprendizado-Python
- Trilha de aprendizado para registrar minha evolução na linguagem Python.
+Repositório para registrar minha evolução na linguagem Python.
